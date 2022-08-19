@@ -5,3 +5,4 @@
 ### Mods
 自製Mods<br>
 [Crossroll Hong Kong](https://github.com/Megumi-B/Mods/releases/tag/Crossroll_Hong_Kong)<br>
+[リコリコ特製すごろく](https://github.com/Megumi-B/TTS-Mods/releases/tag/LycoReco_Sugoroku)<br>
